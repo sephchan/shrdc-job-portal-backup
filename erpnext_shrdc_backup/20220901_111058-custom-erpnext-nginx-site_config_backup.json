@@ -1,0 +1,8 @@
+{
+  "db_host": "mariadb",
+  "db_name": "_89e3383a650fbc09",
+  "db_password": "o3OJceCf9MPMHyAe",
+  "db_port": 3306,
+  "db_type": "mariadb",
+  "developer_mode": 1
+}
